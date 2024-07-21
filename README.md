@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# NewsNexus
+News Nexus is a ReactJS-based website that fetches and displays real-time news data from various categories including sports, general news, business, entertainment, health, science, and technology.
+
+Table of Contents
+Demo
+Features
+Installation
+Usage
+API
+Contributing
+License
+Demo
+You can check out a live demo of the application here.
+
+Features
+Real-time news updates.
+Categorized news sections (Sports, General, Business, Entertainment, Health, Science, Technology).
+User-friendly interface.
+Responsive design.
+>>>>>>> 5259caabf70c22f45db4539fc6eaa253f0bd8653
